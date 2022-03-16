@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Intent Project</string>
+    <string name="text_btn_intent_no_data">Intent No Data</string>
+    <string name="activity_tanpa_data_text">Intent Tanpa Data</string>
+    <string name="activity_dengan_put_extra_text">Intent Dengan putExtra</string>
+    <string name="activity_dengan_bundle_text">Intent Dengan Bundle</string>
+    <string name="intent_bundle_text">Intent Bundle</string>
+    <string name="intent_putextra_text">Intent putExtra</string>
+    <string name="activity_dengan_serializable_text">Intent Dengan Serializable</string>
+    <string name="intent_serializable_text">Intent Serializable</string>
+    <string name="activity_dengan_parcelable_text">Intent Dengan Parcelable</string>
+</resources>
