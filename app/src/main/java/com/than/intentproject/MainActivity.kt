@@ -25,7 +25,8 @@ class MainActivity : AppCompatActivity() {
             sendData.putExtra(IntentWithDataActivity.EXTRA_TINGGI, 1.5)
             startActivity(sendData)
         }
-
+        
+        //Test
         //Intent dengan Bundle
         binding.btnBundle.setOnClickListener {
             val bundle = Bundle()
